@@ -1,1 +1,2 @@
 I have just started a new project
+We will use tailwind in our project
